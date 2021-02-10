@@ -1,7 +1,6 @@
-First task/ Problem statement: Create a program that implements a simple mobile phone with
-the given capabilities. Able to store, modify, remove and query contact names. You will want
-to create a separate class for Contacts (name and phone number). Create a master class
-(MobilePhone) that holds the ArrayList of Contacts. The MobilePhone class has the
-functionality listed above. Add a menu of options that are available. Options: Quit, print list of
-contacts, add a new contact, update an existing contact, remove contact and search/find the
-contact.
+Problem statement: Create a program that implements a playlist for songs. Create
+a Song class having Title and Duration for a song. The program will have an Album class
+containing a list of songs. The albums will be stored in an ArrayList Songs from different
+albums can be added to the playlist and will appear in the list in the order they are added. Once
+the songs have been added to the playlist, create a menu of options to: Quit, Skip forward to the
+next song, skip backward to a previous song and Replay the current song.
